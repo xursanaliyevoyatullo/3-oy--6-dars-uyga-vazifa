@@ -1,0 +1,154 @@
+
+.main {
+    font-family: "Poppins", "Inter" sans-serif;
+    font-weight: 600;
+    background: rgba(220, 234, 245, 1);
+    margin-top: 20px;
+}
+
+.main-container {
+    height: 700px;
+    display: flex;
+}
+
+.main-left {
+    margin-top: 161px;
+}
+
+.main-header {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    display: flex;
+    line-height: 2;
+    gap: 24px;
+}
+
+.main-left-hero {
+    width: 527px;
+    height: 216px;
+    font-size: 64px;
+    margin-top: 24px;
+    line-height: 1.2;
+    letter-spacing: -0.03em;
+}
+
+.blog-main-img {
+    width: 600px;
+    height: 350px;
+    margin-top: 128px;
+    margin-left: 75px;
+    border-radius: 20px;
+}
+
+.main-section {
+    width: 559px;
+    height: 90px;
+    margin-top: 24px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.7;
+}
+
+.main-btn {
+    display: flex;
+    gap: 8px;
+}
+
+.main-icon {
+    width: 22px;
+    height: 10px;
+    margin-top: 33px;  
+}
+
+.read-more {
+    width: 86px;
+    height: 17px;
+    margin-top: 24px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    color: rgba(245, 138, 7, 1);
+}
+
+
+/* SECTION */
+.section-container {
+    font-family: 'Poppins', 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 23px;
+}
+
+.section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.section-header {
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 1.16;
+    letter-spacing: -0.03em;
+    margin-top: 128px;
+    margin-bottom: 60px;
+}
+
+.section-hero-texts {
+    width: 400px;
+    height: 277px;
+    background: rgba(237, 247, 255, 1);
+    border-radius: 0px 0px 20px 20px;
+    margin-bottom: 40px;
+}
+
+.text {
+    width: 336px;
+    height: 72px;
+    font-size: 23px;
+    line-height: 1.5;
+    letter-spacing: -3%;
+    margin-left: 32px;
+    padding-top: 32px;
+}
+
+.texts {
+    width: 336px;
+    height: 84px;
+    font-size: 16px;
+    line-height: 28px;
+    margin-top: 40px;
+    margin-left: 32px;
+}
+
+.main-section-btn {
+    display: flex;
+    gap: 8px;
+}
+
+.main-section-icon {
+    width: 22px;
+    height: 10px;
+    margin-top: 33px;
+}
+
+.learn-more-section {
+    width: 90px;
+    height: 17px;
+    margin-top: 24px;
+    margin-left: 32px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    color: rgba(245, 138, 7, 1);
+}
+
+.section-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 128px;
+}

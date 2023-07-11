@@ -1,0 +1,60 @@
+
+
+.main-container {
+    font-family: 'Poppins', 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.75;
+}
+
+.blog-inner {
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 112px;
+    margin-bottom: 80px;
+}
+
+.main-header {
+    font-weight: 400;
+    font-size: 16px;
+    display: flex;
+    margin-left: 300px;
+    margin-bottom: 24px;
+    line-height: 2;
+    gap: 24px;
+}
+
+.blog-inner-texts {
+    width: 752px;
+    margin-left: 300px;
+}
+
+.blog-inner-text {
+    height: 216px;
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 1.125;
+}
+
+.blog-inner-writing {
+    height: 168px;
+    font-size: 16px;
+}
+
+.blog-inner-writing3 {
+    margin-top: 30px;
+}
+
+.inner-transform {
+    font-weight: 600;
+    font-size: 48px;
+    margin-top: 40px;
+    margin-bottom: 24px;
+    height: 168px;
+    line-height: 1.16;
+}
+
+.inner-writing {
+    margin-top: 24px;
+    margin-bottom: 128px;
+}
